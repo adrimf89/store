@@ -21,7 +21,7 @@
 
 ### Running Locally with Docker
 
-1. Run the application with Docker compose (Docker file includes will build the app):
+1. Run the application with Docker compose (Docker file includes build of the app):
    ```bash
    docker compose up
    ```
